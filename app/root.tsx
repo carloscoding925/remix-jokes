@@ -19,7 +19,8 @@ export default function App() {
                 <title>Home</title>
             </head>
             <body>
-                Hello world
+                Hello World
+                <Outlet />
                 <ScrollRestoration />
                 <Scripts />
             </body>
